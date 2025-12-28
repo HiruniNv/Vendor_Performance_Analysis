@@ -36,7 +36,7 @@ The objective is to transform raw transactional data into **actionable business 
 
 Here’s a snapshot of the interactive dashboard showcasing vendor performance insights:
 
-![Vendor Performance Dashboard](images\dashboard.png)
+![Vendor Performance Dashboard](images/dashboard.png)
 
 ---
 
