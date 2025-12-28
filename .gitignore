@@ -1,0 +1,16 @@
+# Ignore large database files
+inventory.db
+*.db
+
+# Ignore raw datasets
+data/*.csv
+
+# Ignore logs
+logs/*.log
+
+# Ignore Python cache and temp files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore Power Bi data
+*.pbix
