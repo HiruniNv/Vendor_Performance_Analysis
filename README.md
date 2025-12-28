@@ -36,10 +36,11 @@ The objective is to transform raw transactional data into **actionable business 
 
 Here’s a snapshot of the interactive dashboard showcasing vendor performance insights:
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eed44e0d-5568-4071-b423-31556bc460af" width="900" alt="Vendor Performance Dashboard">
+</p>
 
-
----<img width="1377" height="773" alt="dashboard" src="https://github.com/user-attachments/assets/eed44e0d-5568-4071-b423-31556bc460af" />
-
+---
 
 ## 🚀 How to Run the Project
 
